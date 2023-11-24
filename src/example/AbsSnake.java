@@ -1,6 +1,6 @@
 package example;
 
-public class Snake {
+public class AbsSnake {
 	
 		private static final long serialVersionUID = -3641221053272056036L;
 
