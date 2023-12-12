@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c059670-95f1-4696-a35b-06075b47e82c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/jl1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/AbsSnake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/GameUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/MusicPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/MyFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/Paddle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/Play.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/1629702755362_84a39ede3284dfcaa71703c98647a8f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/2294056ad1aa7e15ed1f2337507fa19e.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Abyss-background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Abyss-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Aeon-snake-body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Aeon-snake-head-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Aeon-snake-head.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Kukulcan-snake-head-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/UI-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/UI-background2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/a4229a483cf76e0b5458450c2e591ff3--d-texture-paint-texture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/clay-snake-body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/end.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-banana.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-blueberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-cherry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-durian.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-earth.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-grape.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-grapefruit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-kiwi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-lemon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-litchi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-mango.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-orange.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-peach.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-pear.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-pineapple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-pitaya.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-strawberry.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-watermelon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/game-scene-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/in-snake-head-clipart-snake-head-cartoon-11562915033zdtswr66u1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/kindpng_2287331.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/kindpng_4091760.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/kukulcan-snake-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake-body.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake-graphics.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake-head-right1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake_sprites.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/wp3906260.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/music/frogger.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/music/galaxy-epic.MP3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/music/spacial_epic_symphony.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/music/spacial_epic_symphony2.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/music/spacial_epic_symphony3.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/music/spacial_epic_symphony4.mp3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Z7yQTTkb4iAVwynG856DYwxId4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Play.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "K:/Year-3/DMS/COMP2013-SunHe/lib/jl1.0.1.jar",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3816092",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="K:\Year-3\DMS\COMP2013-SunHe\src\main\resources\img" />
+      <recent name="K:\Year-3\DMS\COMP2013-SunHe\src\main\resources\com\java\comp2013sun" />
+      <recent name="K:\Year-3\DMS\COMP2013-SunHe\src\main\resources\com.java.comp2013sunhe" />
+      <recent name="K:\Year-3\DMS\COMP2013-SunHe\src\main\resources\com\example\comp2013sunhe" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Play">
+    <configuration name="MusicPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.comp2013sunhe.MusicPlayer" />
+      <module name="COMP2013-SunHe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.comp2013sunhe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.comp2013sunhe.Play" />
+      <module name="COMP2013-SunHe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.java.comp2013sunhe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jl1.0.1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/jl1.0.1.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Play" />
+        <item itemvalue="Application.MusicPlayer" />
+        <item itemvalue="JAR Application.jl1.0.1.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-3183f394aec4-7d648f2c" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c059670-95f1-4696-a35b-06075b47e82c" name="Changes" comment="" />
+      <created>1701787398541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701787398541</updated>
+      <workItem from="1701787399691" duration="3961000" />
+      <workItem from="1701791389312" duration="3589000" />
+      <workItem from="1701868003215" duration="1000" />
+      <workItem from="1702029258190" duration="2000" />
+      <workItem from="1702036818763" duration="37000" />
+      <workItem from="1702067975548" duration="4536000" />
+      <workItem from="1702305579097" duration="1201000" />
+      <workItem from="1702310003244" duration="689000" />
+      <workItem from="1702396875165" duration="667000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.reflect.InvocationTargetException" package="java.lang.reflect" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
