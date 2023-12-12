@@ -4,79 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c059670-95f1-4696-a35b-06075b47e82c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jl1.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/AbsSnake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/GameUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/ImageUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/MyFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/Paddle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/Play.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/java/comp2013sunhe/movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/1629702755362_84a39ede3284dfcaa71703c98647a8f5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/2294056ad1aa7e15ed1f2337507fa19e.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Abyss-background.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Abyss-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Aeon-snake-body.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Aeon-snake-head-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Aeon-snake-head.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/Kukulcan-snake-head-right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/UI-background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/UI-background2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/a4229a483cf76e0b5458450c2e591ff3--d-texture-paint-texture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/clay-snake-body.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/end.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-banana.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-blueberry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-cherry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-durian.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-earth.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-grape.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-grapefruit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-kiwi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-lemon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-litchi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-mango.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-orange.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-peach.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-pear.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-pineapple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-pitaya.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-strawberry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/food-watermelon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/game-scene-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/in-snake-head-clipart-snake-head-cartoon-11562915033zdtswr66u1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/kindpng_2287331.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/kindpng_4091760.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/kukulcan-snake-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake-body.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake-graphics.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake-head-right1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/snake_sprites.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/wp3906260.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/music/frogger.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/music/galaxy-epic.MP3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/music/spacial_epic_symphony.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/music/spacial_epic_symphony2.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/music/spacial_epic_symphony3.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/music/spacial_epic_symphony4.mp3" afterDir="false" />
+    <list default="true" id="4c059670-95f1-4696-a35b-06075b47e82c" name="Changes" comment="adjust img feed structure">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +17,25 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabMergeRequestFiltersHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPENED&quot;,
+    &quot;assignee&quot;: {
+      &quot;type&quot;: &quot;org.jetbrains.plugins.gitlab.mergerequest.ui.filters.GitLabMergeRequestsFiltersValue.MergeRequestsMemberFilterValue.MergeRequestsAssigneeFilterValue&quot;,
+      &quot;username&quot;: &quot;scyhs4&quot;,
+      &quot;fullname&quot;: &quot;He SUN&quot;
+    }
+  }
+}</component>
+  <component name="GitLabMergeRequestsSettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;first&quot;: &quot;git@projects.cs.nott.ac.uk:scyhs4/comp2013-sunhe.git&quot;,
+    &quot;second&quot;: &quot;e649ac65-42b6-4d25-8726-d6df557f95c3&quot;
+  }
+}</component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -107,29 +55,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Play.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "K:/Year-3/DMS/COMP2013-SunHe/lib/jl1.0.1.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.3816092",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Play.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;K:/Year-3/DMS/COMP2013-SunHe/lib/jl1.0.1.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.3816092&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="K:\Year-3\DMS\COMP2013-SunHe\src\main\resources\img" />
@@ -200,8 +148,18 @@
       <workItem from="1702067975548" duration="4536000" />
       <workItem from="1702305579097" duration="1201000" />
       <workItem from="1702310003244" duration="689000" />
-      <workItem from="1702396875165" duration="667000" />
+      <workItem from="1702396875165" duration="1053000" />
+      <workItem from="1702398070051" duration="398000" />
     </task>
+    <task id="LOCAL-00001" summary="adjust img feed structure">
+      <option name="closed" value="true" />
+      <created>1702398014221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702398014221</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +167,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="adjust img feed structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="adjust img feed structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
