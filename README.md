@@ -35,15 +35,6 @@ Use Git to clone the project to your local machine. Open your terminal and run t
 - **Soundtrack**: Original epic music composition generated using Google's [MusicLM](https://google-research.github.io/seanet/musiclm/examples/) based on [this paper](https://arxiv.org/abs/2301.11325). Sound of special tools and collisions from [Pixabay](https://pixabay.com/sound-effects/).
 - **Game Engine**: Developed using JavaFX.
 
-## Screenshots
-
-Screenshot 1 - Main Menu:
-![Screenshot 1 - Main Menu](./screen-shots/start-game.png)
-Screenshot 2 - Choose Faction:
-![Screenshot 2 - Choose Faction](./screen-shots/choose-faction.png)
-Screenshot 3 - Game Over in Aztec Scene:
-![Screenshot 3 - Game Over in Aztec Scene](./screen-shots/game-over-aztec.png)
-
 
 
 
