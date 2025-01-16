@@ -1,12 +1,7 @@
 # Snakee Maya : Wrath of the Feathered Serpent
 **Author: He SUN**
 
-[Click here to watch the video](https://www.youtube.com/watch?v=eoucdJj4mak&t=1s)
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=eoucdJj4mak">
-    <img src="https://www.youtube.com/watch?v=eoucdJj4mak/0.jpg" alt="Watch the tech demo video" />
-  </a>
-</p>
+[![Watch the tech demo video](https://img.youtube.com/vi/eoucdJj4mak/0.jpg)](https://www.youtube.com/watch?v=eoucdJj4mak&t=1s)
 
 ## Brief Project Description
 *Snakee Maya : Wrath of the Feathered Serpent* is a captivating take on the classic snake game, set in a mysterious world adorned with the rich visual styles of the Maya, Aztec, and Toltec civilizations.
