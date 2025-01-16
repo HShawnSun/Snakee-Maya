@@ -3,7 +3,7 @@
 
 Tech demo video on YouTube:
 
-[![Watch the tech demo video](https://img.youtube.com/vi/eoucdJj4mak/0.jpg)](https://www.youtube.com/watch?v=eoucdJj4mak&t=1s)
+[![Watch the tech demo video](https://img.youtube.com/vi/eoucdJj4mak/0.jpg)](https://www.youtube.com/watch?v=eoucdJj4mak)
 
 ## Brief Project Description
 *Snakee Maya : Wrath of the Feathered Serpent* is a captivating take on the classic snake game, set in a mysterious world adorned with the rich visual styles of the Maya, Aztec, and Toltec civilizations.
