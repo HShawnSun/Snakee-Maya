@@ -4,7 +4,7 @@
 [Click here to watch the video](https://www.youtube.com/watch?v=eoucdJj4mak&t=1s)
 <p align="center">
   <a href="https://www.youtube.com/watch?v=eoucdJj4mak">
-    <img src="(https://www.youtube.com/watch?v=eoucdJj4mak/0.jpg" alt="Watch the tech demo video" />
+    <img src="https://www.youtube.com/watch?v=eoucdJj4mak/0.jpg" alt="Watch the tech demo video" />
   </a>
 </p>
 
